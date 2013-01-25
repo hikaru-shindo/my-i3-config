@@ -47,6 +47,7 @@ bindsym $mod+r exec gmrun
 bindsym Shift+Control+F exec firefox
 bindsym Shift+Control+M exec ~/bin/mutt.sh
 bindsym Shift+Control+I exec ~/bin/weechat.sh
+bindsym Shift+Control+T exec ~/bin/touchpadtoggle.sh
 bindsym Shift+Control+Z exec $terminal -n fxterm -name fxterm -T fxterm
 bindsym $alt+Control+l exec ~/bin/xlock.sh
 bindsym XF86AudioNext exec ~/bin/mpc_control.sh next
